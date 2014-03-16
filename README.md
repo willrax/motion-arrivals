@@ -7,6 +7,8 @@ iBeacons, RubyMotion, SlackHQ. Oh my!
 
 A simple example app used in my iBeacon talk at [#sydinmotion](http://sydinmotion.com).
 
+![](http://c.willrax.com/USha/2014-03-16%2013_02_15.gif)
+
 ## Usage
 
 Just fill in your slackbot remote control token and preferred channel in `app_delegate.rb`.
