@@ -11,6 +11,8 @@ A simple example app used in my iBeacon talk at [#sydinmotion](http://sydinmotio
 
 ## Usage
 
+There is a more in-depth guide [here](https://github.com/willrax/motion-arrivals/wiki/Setup-and-Usage)
+
 Just fill in your slackbot remote control token and preferred channel in `app_delegate.rb`.
 
 ```ruby
